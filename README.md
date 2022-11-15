@@ -2,6 +2,8 @@
 
 Este repositorio contiene el código del juego Blackjack creado en JS
 
+[Link del Juego](https://alxsandoval.github.io/blackjack/)
+
 # Webpack-starter
 
 Este repositorio es la base que sirve como estructura inicial para la creación de aplicaciones que utilicen webpack.
